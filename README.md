@@ -77,10 +77,6 @@ Access the dashboard at `http://localhost:5000/` to view:
 - **RESTful API**: Complete API endpoints for data management
 - **Clear Metrics**: One-click clearing of all collected metrics
 
-
-
-
-
 Here are the PowerShell commands you can run directly in your VS Code terminal:
 
 **To start the Flask server:**
